@@ -9,7 +9,7 @@ One CRUD operation to manage Companies - create/edit/update/delete.
 
 ---
 
-### How to use
+### How to use @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
 - Clone the repository with __git clone__
 - Copy __.env.example__ file to __.env__ and edit database credentials there

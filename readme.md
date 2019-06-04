@@ -8,6 +8,7 @@ One CRUD operation to manage Companies - create/edit/update/delete.
 ![Laravel + Vue.js](http://webcoderpro.com/laravel-vue.png)
 
 ---
+이걸 seconds에서 추가했어요.
 
 ### How to use 이걸로@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
 
